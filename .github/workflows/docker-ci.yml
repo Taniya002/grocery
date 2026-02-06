@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: taniya/grocery-image:latest
+          tags: taniya002/grocery-image:latest
